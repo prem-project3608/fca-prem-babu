@@ -41,7 +41,7 @@ module.exports = {
 	},
 	Error: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
 		if (!str) {
-			console.log(chalk.magenta.bold('[ FCA-ERROR ] > ') + chalk.red("Already Faulty, Please Contact: Facebook.com/Lazic.Kanzu"));
+			console.log(chalk.magenta.bold('[ FCA-ERROR ] > ') + chalk.red("Already Faulty, Please Contact: Facebook:https://www.facebook.com/shankar.suman.98622733"));
 		}
 		console.log(chalk.magenta.bold('[ FCA-ERROR ] > ') + chalk.red(str));
 		if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
@@ -50,14 +50,14 @@ module.exports = {
 		else return callback;
 	},
 	Success: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
-		console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-HZI ]'} > `) + chalk.green(str));
+		console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-SHANKAR ]'} > `) + chalk.green(str));
 		if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
 			callback();
 		}
 		else return callback;
 	},
 	Info: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
-		console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-HZI ]'} > `) + chalk.blue(str));
+		console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-SHANKAR ]'} > `) + chalk.blue(str));
 		if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
 			callback();
 		}
