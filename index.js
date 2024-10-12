@@ -27,7 +27,7 @@ global.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
-            "MainName": "[ FCA-SHANKAR ]",
+            "MainName": "[ FCA PREM PROJECT ]",
             "Uptime": false,
             "Config": "default",
             "DevMode": false,
