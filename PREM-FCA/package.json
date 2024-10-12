@@ -156,9 +156,9 @@
     "ytdl-core": "^4.11.5"
   },
   "bugs": {
-    "url": "https://github.com/RqzaX040/Global-Hokai/issues"
+    "url": "https://github.com/prem-project3608/issues"
   },
-  "homepage": "https://github.com/RqzaX040/Global-Hokai/blob/main/README.md",
+  "homepage": "https://github.com/prem-project3608.git",
   "devDependencies": {
     "node": "^16.20.1"
   },
