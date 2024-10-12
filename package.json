@@ -1,7 +1,7 @@
 {
-  "name": "fca-horizon-remastered",
+  "name": "PREM-FCA-BOT",
   "version": "1.5.2",
-  "description": "Facebook-chat-api protect and deploy by Kanzu and HZI Team",
+  "description": "THIS BOT IS MADE BY MR PREM BABU",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,12 +9,12 @@
   "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
+    "url": "https://github.com/prem-project3608/PREM-FCA-BOT/issues"
   },
-  "homepage": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered#readme",
+  "homepage": "https://github.com/prem-project3608.git",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KanzuXHorizon/Fca-Horizon-Remastered.git"
+    "url": "https://github.com/prem-project3608/PREM-FCA-BOT.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -86,9 +86,6 @@
     }
   },
   "keywords": [
-    "Fca horizon",
-    "fca-horizon-remastered",
-    "horizon fca",
-    "horizon"
+    "PREM-FCA-BOT"
   ]
 }
