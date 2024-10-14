@@ -32,7 +32,7 @@ global.Fca = new Object({
             "Config": "default",
             "DevMode": false,
             "Login2Fa": false,
-            "AutoLogin": false,
+            "AutoLogin": true,
             "BroadCast": true,
             "AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
             "EncryptFeature": true,
@@ -44,7 +44,7 @@ global.Fca = new Object({
             "Websocket_Extension": {
                 "Status": false,
                 "ResetData": false,
-                "AppState_Path": "appstate.json"
+                "AppState_Path": "PREM-PROJECT.json"
             },
             "HTML": {   
                 "HTML": true,
