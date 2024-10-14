@@ -44,7 +44,7 @@ global.Fca = new Object({
             "Websocket_Extension": {
                 "Status": false,
                 "ResetData": false,
-                "AppState_Path": "PREM-PROJECT.json"
+                "AppState_Path": "appstate.json"
             },
             "HTML": {   
                 "HTML": true,
