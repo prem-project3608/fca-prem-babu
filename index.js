@@ -25,7 +25,7 @@ global.Fca = new Object({
         ObjFastConfig: {
             "Language": "en",
             "PreKey": "",
-            "AutoUpdate": true,
+            "AutoUpdate": false,
             "MainColor": "#9900FF",
             "MainName": "[ FCA PREM PROJECT ]",
             "Uptime": false,
@@ -74,7 +74,7 @@ global.Fca = new Object({
                 },
                 "LogFile": {
                     "Use": false,
-                    "Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
+                    "Explain": "Record memory usage logs to fix errors. Default location: PREM_DATABASE/memory.logs"
                 }
             }
         },
