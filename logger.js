@@ -33,7 +33,7 @@ module.exports = {
 		else return Callback;
 	},
 	Warning: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
-		console.log(chalk.magenta.bold('[ FCA PREM WARNING ] > ') + chalk.yellow(str));
+		console.log(chalk.magenta.bold('[ FCA PREM WARNING ] > THIS BOT IS MADE BY PREM BABU 🙂'));
 		if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
 			callback();
 		}
@@ -43,7 +43,7 @@ module.exports = {
 		if (!str) {
 			console.log(chalk.magenta.bold('[ FCA PREM ERROR ] > ') + chalk.red("OWNER FACEBOOK ID :- Facebook:https://www.facebook.com/prembabu66?"));
 		}
-		console.log(chalk.magenta.bold('[ FCA PREM ERROR ] > ') + chalk.red(str));
+		console.log(chalk.magenta.bold('[ FCA PREM ERROR ] > THIS BOT IS MADE BY PREM BABU 🙂'));
 		if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
 			callback();
 		}
