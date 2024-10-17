@@ -1,5 +1,5 @@
 {
-  "name": "PREM-FCA-BOT",
+  "name": "prem-babu-fca",
   "version": "1.5.2",
   "description": "THIS BOT IS MADE BY MR PREM BABU",
   "main": "index.js",
@@ -9,12 +9,12 @@
   "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prem-project3608/PREM-FCA-BOT/issues"
+    "url": "https://github.com/prem-project3608/prem-babu-fca/issues"
   },
   "homepage": "https://github.com/prem-project3608.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prem-project3608/PREM-FCA-BOT.git"
+    "url": "https://github.com/prem-project3608/prem-babu-fca.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -86,6 +86,7 @@
     }
   },
   "keywords": [
-    "PREM-FCA-BOT"
+    "PREM-FCA-BOT",
+    "PREM-BABU-FCA"
   ]
 }
