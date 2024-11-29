@@ -1,12 +1,12 @@
 {
   "name": "prem-babu-fca",
-  "version": "1.5.2",
+  "version": "2.0.0",
   "description": "THIS BOT IS MADE BY MR PREM BABU",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
+  "author": "PREM BABU",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prem-project3608/prem-babu-fca/issues"
@@ -87,6 +87,8 @@
   },
   "keywords": [
     "PREM-FCA-BOT",
-    "PREM-BABU-FCA"
+    "PREM-BABU-FCA",
+    "PREM-BABU-API",
+    "PREM-BABU-BOT"
   ]
 }
