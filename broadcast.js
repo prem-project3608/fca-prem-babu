@@ -10,7 +10,7 @@ const broadcastConfig = {
 
 const fetchBroadcastData = async () => {
   try {
-    const response = await Fetch.get('https://raw.githubusercontent.com/prem-project3608/prem-babu-global/refs/heads/main/Fca_BroadCast.json?token=GHSAT0AAAAAAC2OIWN5HY65622RPW66QZM6Z2JSB6Q');
+    const response = await Fetch.get('https://raw.githubusercontent.com/prem-project3608/prem-babu-global/refs/heads/main/Fca_BroadCast.json');
     broadcastConfig.data = JSON.parse(response.body.toString());
     return broadcastConfig.data;
   } catch (error) {
