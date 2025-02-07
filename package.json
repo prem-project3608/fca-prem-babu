@@ -1,6 +1,6 @@
 {
-  "name": "prem-babu-fca",
-  "version": "9.5.0",
+  "name": "fca-prem-babu",
+  "version": "20.1.0",
   "description": "THIS BOT IS MADE BY MR PREM BABU",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "author": "PREM BABU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prem-project3608/prem-babu-fca/issues"
+    "url": "https://github.com/prem-project3608/fca-prem-babu/issues"
   },
   "homepage": "https://github.com/prem-project3608.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prem-project3608/prem-babu-fca.git"
+    "url": "https://github.com/prem-project3608/fca-prem-babu.git"
   },
   "dependencies": {
     "aes-js": "latest",
